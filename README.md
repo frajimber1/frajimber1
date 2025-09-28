@@ -12,7 +12,17 @@ Pronto podrías descrubrir nuevas cosas aquí
 
 # 📊 My Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="[https://github-readme-stats.codestackr.vercel.app/api?username=frajimber1&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=frajimber1&show_icons=true&theme=transparent)" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=frajimber1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=frajimber1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=frajimber1&show_icons=true" />
+</picture>
 <!--
 **frajimber1/frajimber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
